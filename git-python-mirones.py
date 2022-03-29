@@ -1,3 +1,5 @@
 print("Harvey Bello Mirones")
 print("Caigangan, Buenavista, Marinduque")
 print("August 27, 1999")
+print("Bachelor of Science in Infromation Technology")
+print("Second Year, Section E")
